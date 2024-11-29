@@ -1,8 +1,3 @@
-# credit-card-fraud-detection
-<br>
-
-Here’s a project description tailored for your minor project:
-
 # *Credit Card Fraud Detection*
 This project is a machine learning-based system to detect fraudulent credit card transactions. It uses a Decision Tree Classifier trained on a dataset of transaction records. The primary goal is to distinguish between legitimate and fraudulent transactions based on key features like transaction type, amount, and account balances.
 
